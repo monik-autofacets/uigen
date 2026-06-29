@@ -33,7 +33,18 @@ jobs:
       - name: Project Setup
         run: |
           npm run setup
+          npx playwright install --with-deps chromium
           npm run dev:daemon
+
+      - name: Wait for dev server
+        run: |
+          for i in $(seq 1 60); do
+            if curl -sf http://localhost:3000 >/dev/null; then
+              echo "Dev server is up"; exit 0
+            fi
+            echo "waiting for localhost:3000 ($i)..."; sleep 2
+          done
+          echo "Dev server did not become ready in time"; cat logs.txt || true; exit 1
 
       - name: Run Claude Code
         id: claude
