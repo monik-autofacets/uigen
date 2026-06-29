@@ -41,16 +41,14 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
 
-          prompt: |
-            The project is already set up with all dependencies installed.
-            The server is already running at localhost:3000. Logs from it
-            are being written to logs.txt. If needed, you can query the
-            db with the 'sqlite3' cli. If needed, use the mcp__playwright
-            set of tools to launch a browser and interact with the app.
-
+          # No `prompt:` — leaving it empty keeps the action in "tag mode" so it
+          # reads the @claude issue/comment as the task and auto-posts the reply.
+          # Environment/tooling context goes in --append-system-prompt below.
           claude_args: |
+            --append-system-prompt "The project is already set up with all dependencies installed and the dev server is already running at http://localhost:3000 (logs in logs.txt). You can query the SQLite db with the 'sqlite3' cli. Use the mcp__playwright tools to launch a browser, navigate to localhost:3000, and interact with the app to verify behavior."
+            --max-turns 30
             --mcp-config '{"mcpServers":{"playwright":{"command":"npx","args":["@playwright/mcp@latest","--allowed-origins","localhost:3000;cdn.tailwindcss.com;esm.sh"]}}}'
-            --allowedTools "Bash(npm:*),Bash(sqlite3:*),mcp__playwright__browser_snapshot,mcp__playwright__browser_click,mcp__playwright__browser_type,mcp__playwright__browser_navigate,mcp__playwright__browser_wait_for"
+            --allowedTools "Read,Glob,Grep,Bash(npm:*),Bash(sqlite3:*),Bash(cat:*),Bash(tail:*),mcp__playwright__browser_snapshot,mcp__playwright__browser_navigate,mcp__playwright__browser_navigate_back,mcp__playwright__browser_click,mcp__playwright__browser_type,mcp__playwright__browser_wait_for,mcp__playwright__browser_take_screenshot,mcp__playwright__browser_console_messages"
 
           # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
           # prompt: 'Update the pull request description to include a summary of changes.'
