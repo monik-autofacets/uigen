@@ -52,13 +52,11 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
 
-          # Temporary: surface Claude's full turn-by-turn output to debug the run.
-          show_full_output: true
-
           # No `prompt:` — leaving it empty keeps the action in "tag mode" so it
           # reads the @claude issue/comment as the task and auto-posts the reply.
           # Environment/tooling context goes in --append-system-prompt below.
           claude_args: |
+            --model claude-haiku-4-5
             --append-system-prompt "The project is already set up with all dependencies installed and the dev server is already running at http://localhost:3000 (logs in logs.txt). You can query the SQLite db with the 'sqlite3' cli. Use the mcp__playwright tools to launch a browser, navigate to localhost:3000, and interact with the app to verify behavior."
             --max-turns 30
             --mcp-config '{"mcpServers":{"playwright":{"command":"npx","args":["@playwright/mcp@latest","--allowed-origins","localhost:3000;cdn.tailwindcss.com;esm.sh"]}}}'
