@@ -52,6 +52,9 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
 
+          # Temporary: surface Claude's full turn-by-turn output to debug the run.
+          show_full_output: true
+
           # No `prompt:` — leaving it empty keeps the action in "tag mode" so it
           # reads the @claude issue/comment as the task and auto-posts the reply.
           # Environment/tooling context goes in --append-system-prompt below.
