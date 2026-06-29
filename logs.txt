@@ -1,0 +1,619 @@
+   ▲ Next.js 15.5.19 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://172.16.12.76:3000
+
+ ✓ Starting...
+ ✓ Compiled middleware in 358ms
+ ✓ Ready in 1365ms
+ ○ Compiling / ...
+ ✓ Compiled / in 9.5s
+ GET / 200 in 10694ms
+ GET / 200 in 123ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 519ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 816ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 504ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 13205ms
+ GET / 200 in 111ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 252ms
+ GET / 200 in 103ms
+ GET / 200 in 95ms
+ GET / 200 in 112ms
+ GET / 200 in 89ms
+ GET / 200 in 144ms
+ GET / 200 in 113ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12414ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 7276ms
+ ✓ Compiled in 350ms
+ GET / 200 in 136ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 421ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12610ms
+ GET / 200 in 140ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 271ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12421ms
+ GET / 200 in 102ms
+ GET / 200 in 151ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12340ms
+ GET / 200 in 84ms
+ GET / 200 in 130ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12569ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 7217ms
+ GET / 200 in 95ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 313ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 234ms
+ GET / 200 in 248ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 255ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12464ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 7228ms
+ GET / 200 in 81ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 254ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12377ms
+ GET / 200 in 93ms
+ GET / 200 in 157ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12346ms
+ GET / 200 in 87ms
+ GET / 200 in 94ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 256ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12405ms
+ GET / 200 in 154ms
+ GET / 200 in 105ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12433ms
+ ✓ Compiled in 270ms
+ GET / 200 in 92ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 258ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12549ms
+ ✓ Compiled in 268ms
+ ✓ Compiled in 370ms
+ ✓ Compiled in 241ms
+ GET / 200 in 112ms
+ GET / 200 in 92ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12500ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 7388ms
+ GET / 200 in 134ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 248ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 12641ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 7204ms
+ANTHROPIC_API_KEY is not set (or is still the placeholder). Using the mock provider — responses will be canned. Set a real key in .env to generate components with Claude.
+ POST /api/chat 200 in 7244ms
+   Reload env: .env
+ GET / 200 in 314ms
+ GET / 200 in 310ms
+ GET / 200 in 258ms
+   Reload env: .env
+ GET / 200 in 341ms
+ GET / 200 in 350ms
+ GET / 200 in 157ms
+ GET / 200 in 350ms
+ GET / 200 in 350ms
+ GET / 200 in 138ms
+ GET / 200 in 251ms
+ GET / 200 in 255ms
+ GET / 200 in 135ms
+ GET / 200 in 852ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 293ms
+ POST /api/chat 200 in 9301ms
+ GET / 200 in 175ms
+ GET /favicon.ico?favicon.0b3bf435.ico 200 in 257ms
+ POST /api/chat 200 in 15651ms
+ POST /api/chat 200 in 12329ms
+ POST /api/chat 200 in 4365ms
+ POST /api/chat 200 in 1789ms
+ POST /api/chat 200 in 8474ms
+ POST /api/chat 200 in 11208ms
+ POST /api/chat 200 in 4671ms
+[Error: failed to pipe response] {
+  [cause]: [Error [AI_RetryError]: Failed after 3 attempts. Last error: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+    cause: undefined,
+    reason: 'maxRetriesExceeded',
+    errors: [
+      [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+        cause: undefined,
+        url: 'https://api.anthropic.com/v1/messages',
+        requestBodyValues: {
+          model: 'claude-haiku-4-5',
+          max_tokens: 10000,
+          temperature: 0,
+          top_k: undefined,
+          top_p: undefined,
+          stop_sequences: undefined,
+          system: [ [Object] ],
+          messages: [
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object]
+          ],
+          tools: [ [Object], [Object] ],
+          tool_choice: { type: 'auto' },
+          stream: true
+        },
+        statusCode: 429,
+        responseHeaders: {
+          'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+          'anthropic-ratelimit-input-tokens-limit': '10000',
+          'anthropic-ratelimit-input-tokens-remaining': '0',
+          'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:07:40Z',
+          'anthropic-ratelimit-requests-limit': '5',
+          'anthropic-ratelimit-requests-remaining': '3',
+          'anthropic-ratelimit-requests-reset': '2026-06-26T11:06:36Z',
+          'cf-cache-status': 'DYNAMIC',
+          'cf-ray': 'a11bbdc30cd92666-BOM',
+          connection: 'keep-alive',
+          'content-encoding': 'gzip',
+          'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+          'content-type': 'application/json',
+          date: 'Fri, 26 Jun 2026 11:06:12 GMT',
+          'request-id': 'req_011CcRmDrRqv3qug5VJZWGTw',
+          'retry-after': '52',
+          server: 'cloudflare',
+          'set-cookie': '_cfuvid=WQTiSXog8hZIiEvuh5wBfb9FpHPrMQ.sjLTox9HWeFM-1782471972.3301978-1.0.1.1-k2IUFjzkA_.P6sUEferG.tyfsIoZV6kicnorA98V4Oo; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+          'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+          traceresponse: '00-de009aa7de63f1880c70759caa708de5-4a0e91eb78c49035-01',
+          'transfer-encoding': 'chunked',
+          vary: 'Accept-Encoding',
+          'x-robots-tag': 'none',
+          'x-should-retry': 'true'
+        },
+        responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmDrRqv3qug5VJZWGTw"}`,
+        isRetryable: true,
+        data: {
+          type: 'error',
+          error: {
+            type: 'rate_limit_error',
+            message: "This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."
+          }
+        }
+      },
+      [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+        cause: undefined,
+        url: 'https://api.anthropic.com/v1/messages',
+        requestBodyValues: {
+          model: 'claude-haiku-4-5',
+          max_tokens: 10000,
+          temperature: 0,
+          top_k: undefined,
+          top_p: undefined,
+          stop_sequences: undefined,
+          system: [ [Object] ],
+          messages: [
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object]
+          ],
+          tools: [ [Object], [Object] ],
+          tool_choice: { type: 'auto' },
+          stream: true
+        },
+        statusCode: 429,
+        responseHeaders: {
+          'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+          'anthropic-ratelimit-input-tokens-limit': '10000',
+          'anthropic-ratelimit-input-tokens-remaining': '0',
+          'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:07:40Z',
+          'anthropic-ratelimit-requests-limit': '5',
+          'anthropic-ratelimit-requests-remaining': '2',
+          'anthropic-ratelimit-requests-reset': '2026-06-26T11:06:48Z',
+          'cf-cache-status': 'DYNAMIC',
+          'cf-ray': 'a11bbdd27f8b2666-BOM',
+          connection: 'keep-alive',
+          'content-encoding': 'gzip',
+          'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+          'content-type': 'application/json',
+          date: 'Fri, 26 Jun 2026 11:06:15 GMT',
+          'request-id': 'req_011CcRmE2ekpfgj532qUH8wh',
+          'retry-after': '48',
+          server: 'cloudflare',
+          'set-cookie': '_cfuvid=Kokr992jRy683eosKOgrOUsoT.OH_AZeq8NpvuiFhEQ-1782471974.7961683-1.0.1.1-MTnw8LrlSqvZwt92qQNoKaixQAZ9oIzp932Jn.lpfj0; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+          'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+          traceresponse: '00-b0afad09c5869be1beedfaec99bbd8b1-6a0ab3f415623b1c-01',
+          'transfer-encoding': 'chunked',
+          vary: 'Accept-Encoding',
+          'x-robots-tag': 'none',
+          'x-should-retry': 'true'
+        },
+        responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmE2ekpfgj532qUH8wh"}`,
+        isRetryable: true,
+        data: {
+          type: 'error',
+          error: {
+            type: 'rate_limit_error',
+            message: "This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."
+          }
+        }
+      },
+      [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+        cause: undefined,
+        url: 'https://api.anthropic.com/v1/messages',
+        requestBodyValues: {
+          model: 'claude-haiku-4-5',
+          max_tokens: 10000,
+          temperature: 0,
+          top_k: undefined,
+          top_p: undefined,
+          stop_sequences: undefined,
+          system: [ [Object] ],
+          messages: [
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object]
+          ],
+          tools: [ [Object], [Object] ],
+          tool_choice: { type: 'auto' },
+          stream: true
+        },
+        statusCode: 429,
+        responseHeaders: {
+          'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+          'anthropic-ratelimit-input-tokens-limit': '10000',
+          'anthropic-ratelimit-input-tokens-remaining': '0',
+          'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:07:40Z',
+          'anthropic-ratelimit-requests-limit': '5',
+          'anthropic-ratelimit-requests-remaining': '1',
+          'anthropic-ratelimit-requests-reset': '2026-06-26T11:07:00Z',
+          'cf-cache-status': 'DYNAMIC',
+          'cf-ray': 'a11bbdedf899cc07-BOM',
+          connection: 'keep-alive',
+          'content-encoding': 'gzip',
+          'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+          'content-type': 'application/json',
+          date: 'Fri, 26 Jun 2026 11:06:19 GMT',
+          'request-id': 'req_011CcRmEMVLGYMhEzV4Pkv5o',
+          'retry-after': '44',
+          server: 'cloudflare',
+          'set-cookie': '_cfuvid=vqsJUicZFHn1E_DvJiv03RG.BS_GKzSElTxNlCw1TSU-1782471979.1992733-1.0.1.1-V1hPQZTePLCjQ4xUKh47p7xCBmvjOneJUw5KG0P0poY; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+          'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+          traceresponse: '00-35c79e6ac7e52566d72558ab90099c92-7262151b539ae6d9-01',
+          'transfer-encoding': 'chunked',
+          vary: 'Accept-Encoding',
+          'x-robots-tag': 'none',
+          'x-should-retry': 'true'
+        },
+        responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmEMVLGYMhEzV4Pkv5o"}`,
+        isRetryable: true,
+        data: {
+          type: 'error',
+          error: {
+            type: 'rate_limit_error',
+            message: "This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."
+          }
+        }
+      }
+    ],
+    lastError: [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+      cause: undefined,
+      url: 'https://api.anthropic.com/v1/messages',
+      requestBodyValues: {
+        model: 'claude-haiku-4-5',
+        max_tokens: 10000,
+        temperature: 0,
+        top_k: undefined,
+        top_p: undefined,
+        stop_sequences: undefined,
+        system: [Array],
+        messages: [Array],
+        tools: [Array],
+        tool_choice: [Object],
+        stream: true
+      },
+      statusCode: 429,
+      responseHeaders: {
+        'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+        'anthropic-ratelimit-input-tokens-limit': '10000',
+        'anthropic-ratelimit-input-tokens-remaining': '0',
+        'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:07:40Z',
+        'anthropic-ratelimit-requests-limit': '5',
+        'anthropic-ratelimit-requests-remaining': '1',
+        'anthropic-ratelimit-requests-reset': '2026-06-26T11:07:00Z',
+        'cf-cache-status': 'DYNAMIC',
+        'cf-ray': 'a11bbdedf899cc07-BOM',
+        connection: 'keep-alive',
+        'content-encoding': 'gzip',
+        'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+        'content-type': 'application/json',
+        date: 'Fri, 26 Jun 2026 11:06:19 GMT',
+        'request-id': 'req_011CcRmEMVLGYMhEzV4Pkv5o',
+        'retry-after': '44',
+        server: 'cloudflare',
+        'set-cookie': '_cfuvid=vqsJUicZFHn1E_DvJiv03RG.BS_GKzSElTxNlCw1TSU-1782471979.1992733-1.0.1.1-V1hPQZTePLCjQ4xUKh47p7xCBmvjOneJUw5KG0P0poY; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+        'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+        traceresponse: '00-35c79e6ac7e52566d72558ab90099c92-7262151b539ae6d9-01',
+        'transfer-encoding': 'chunked',
+        vary: 'Accept-Encoding',
+        'x-robots-tag': 'none',
+        'x-should-retry': 'true'
+      },
+      responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmEMVLGYMhEzV4Pkv5o"}`,
+      isRetryable: true,
+      data: { type: 'error', error: [Object] }
+    }
+  }
+}
+ POST /api/chat 500 in 10542ms
+[Error: failed to pipe response] {
+  [cause]: [Error [AI_RetryError]: Failed after 3 attempts. Last error: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+    cause: undefined,
+    reason: 'maxRetriesExceeded',
+    errors: [
+      [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+        cause: undefined,
+        url: 'https://api.anthropic.com/v1/messages',
+        requestBodyValues: {
+          model: 'claude-haiku-4-5',
+          max_tokens: 10000,
+          temperature: 0,
+          top_k: undefined,
+          top_p: undefined,
+          stop_sequences: undefined,
+          system: [ [Object] ],
+          messages: [
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object]
+          ],
+          tools: [ [Object], [Object] ],
+          tool_choice: { type: 'auto' },
+          stream: true
+        },
+        statusCode: 429,
+        responseHeaders: {
+          'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+          'anthropic-ratelimit-input-tokens-limit': '10000',
+          'anthropic-ratelimit-input-tokens-remaining': '0',
+          'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:08:22Z',
+          'anthropic-ratelimit-requests-limit': '5',
+          'anthropic-ratelimit-requests-remaining': '0',
+          'anthropic-ratelimit-requests-reset': '2026-06-26T11:07:36Z',
+          'cf-cache-status': 'DYNAMIC',
+          'cf-ray': 'a11bbe94fda89905-BOM',
+          connection: 'keep-alive',
+          'content-encoding': 'gzip',
+          'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+          'content-type': 'application/json',
+          date: 'Fri, 26 Jun 2026 11:06:46 GMT',
+          'request-id': 'req_011CcRmGKkiKM8pyA1QD2qHR',
+          'retry-after': '60',
+          server: 'cloudflare',
+          'set-cookie': '_cfuvid=eta6vjUFoSD6Pw5jHNOqvZTUJcBC3k_9m977PFy2f54-1782472005.9123-1.0.1.1-GxIK1tSyWGgpHUqQU.aBUAqUfj0qr7USTGJSP17WvqY; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+          'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+          traceresponse: '00-af63bde5abfda8828bbe24fd74ebab2b-43b339e86de4deab-01',
+          'transfer-encoding': 'chunked',
+          vary: 'Accept-Encoding',
+          'x-robots-tag': 'none',
+          'x-should-retry': 'true'
+        },
+        responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmGKkiKM8pyA1QD2qHR"}`,
+        isRetryable: true,
+        data: {
+          type: 'error',
+          error: {
+            type: 'rate_limit_error',
+            message: "This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."
+          }
+        }
+      },
+      [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+        cause: undefined,
+        url: 'https://api.anthropic.com/v1/messages',
+        requestBodyValues: {
+          model: 'claude-haiku-4-5',
+          max_tokens: 10000,
+          temperature: 0,
+          top_k: undefined,
+          top_p: undefined,
+          stop_sequences: undefined,
+          system: [ [Object] ],
+          messages: [
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object]
+          ],
+          tools: [ [Object], [Object] ],
+          tool_choice: { type: 'auto' },
+          stream: true
+        },
+        statusCode: 429,
+        responseHeaders: {
+          'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+          'anthropic-ratelimit-input-tokens-limit': '10000',
+          'anthropic-ratelimit-input-tokens-remaining': '0',
+          'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:08:22Z',
+          'anthropic-ratelimit-requests-limit': '5',
+          'anthropic-ratelimit-requests-remaining': '0',
+          'anthropic-ratelimit-requests-reset': '2026-06-26T11:07:48Z',
+          'cf-cache-status': 'DYNAMIC',
+          'cf-ray': 'a11bbea42b379905-BOM',
+          connection: 'keep-alive',
+          'content-encoding': 'gzip',
+          'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+          'content-type': 'application/json',
+          date: 'Fri, 26 Jun 2026 11:06:48 GMT',
+          'request-id': 'req_011CcRmGW7ocz8pcghJoRP8a',
+          'retry-after': '57',
+          server: 'cloudflare',
+          'set-cookie': '_cfuvid=KDINN4xgll13tFhN5dHAANa27rK2pD4lhv4hQLRibEo-1782472008.342935-1.0.1.1-H5vH8TCSQtA6ue4JOa5EVd7h1TDfJ2YPUFITiRUIwDU; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+          'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+          traceresponse: '00-1ed08cbcefc1c8852e151814b6ff5e8a-383239610149406e-01',
+          'transfer-encoding': 'chunked',
+          vary: 'Accept-Encoding',
+          'x-robots-tag': 'none',
+          'x-should-retry': 'true'
+        },
+        responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmGW7ocz8pcghJoRP8a"}`,
+        isRetryable: true,
+        data: {
+          type: 'error',
+          error: {
+            type: 'rate_limit_error',
+            message: "This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."
+          }
+        }
+      },
+      [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+        cause: undefined,
+        url: 'https://api.anthropic.com/v1/messages',
+        requestBodyValues: {
+          model: 'claude-haiku-4-5',
+          max_tokens: 10000,
+          temperature: 0,
+          top_k: undefined,
+          top_p: undefined,
+          stop_sequences: undefined,
+          system: [ [Object] ],
+          messages: [
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object], [Object],
+            [Object], [Object]
+          ],
+          tools: [ [Object], [Object] ],
+          tool_choice: { type: 'auto' },
+          stream: true
+        },
+        statusCode: 429,
+        responseHeaders: {
+          'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+          'anthropic-ratelimit-input-tokens-limit': '10000',
+          'anthropic-ratelimit-input-tokens-remaining': '0',
+          'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:08:22Z',
+          'anthropic-ratelimit-requests-limit': '5',
+          'anthropic-ratelimit-requests-remaining': '0',
+          'anthropic-ratelimit-requests-reset': '2026-06-26T11:07:48Z',
+          'cf-cache-status': 'DYNAMIC',
+          'cf-ray': 'a11bbebfb93a85c6-BOM',
+          connection: 'keep-alive',
+          'content-encoding': 'gzip',
+          'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+          'content-type': 'application/json',
+          date: 'Fri, 26 Jun 2026 11:06:53 GMT',
+          'request-id': 'req_011CcRmGq1MgDPbb79ozpem8',
+          'retry-after': '53',
+          server: 'cloudflare',
+          'set-cookie': '_cfuvid=paJtMJPfjLxDr0qb3MCq1kS.xk3P7z47v1d8fmLbALw-1782472012.7592747-1.0.1.1-HtTaOhNGepeUTZstD.tovQX2pG1gt2aCwGkVvctpRs0; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+          'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+          traceresponse: '00-6eaed4167e388b4e9858cfe54d333ba2-b81dcfeb2051233d-01',
+          'transfer-encoding': 'chunked',
+          vary: 'Accept-Encoding',
+          'x-robots-tag': 'none',
+          'x-should-retry': 'true'
+        },
+        responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmGq1MgDPbb79ozpem8"}`,
+        isRetryable: true,
+        data: {
+          type: 'error',
+          error: {
+            type: 'rate_limit_error',
+            message: "This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."
+          }
+        }
+      }
+    ],
+    lastError: [Error [AI_APICallError]: This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase.] {
+      cause: undefined,
+      url: 'https://api.anthropic.com/v1/messages',
+      requestBodyValues: {
+        model: 'claude-haiku-4-5',
+        max_tokens: 10000,
+        temperature: 0,
+        top_k: undefined,
+        top_p: undefined,
+        stop_sequences: undefined,
+        system: [Array],
+        messages: [Array],
+        tools: [Array],
+        tool_choice: [Object],
+        stream: true
+      },
+      statusCode: 429,
+      responseHeaders: {
+        'anthropic-organization-id': 'aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781',
+        'anthropic-ratelimit-input-tokens-limit': '10000',
+        'anthropic-ratelimit-input-tokens-remaining': '0',
+        'anthropic-ratelimit-input-tokens-reset': '2026-06-26T11:08:22Z',
+        'anthropic-ratelimit-requests-limit': '5',
+        'anthropic-ratelimit-requests-remaining': '0',
+        'anthropic-ratelimit-requests-reset': '2026-06-26T11:07:48Z',
+        'cf-cache-status': 'DYNAMIC',
+        'cf-ray': 'a11bbebfb93a85c6-BOM',
+        connection: 'keep-alive',
+        'content-encoding': 'gzip',
+        'content-security-policy': "default-src 'none'; frame-ancestors 'none'",
+        'content-type': 'application/json',
+        date: 'Fri, 26 Jun 2026 11:06:53 GMT',
+        'request-id': 'req_011CcRmGq1MgDPbb79ozpem8',
+        'retry-after': '53',
+        server: 'cloudflare',
+        'set-cookie': '_cfuvid=paJtMJPfjLxDr0qb3MCq1kS.xk3P7z47v1d8fmLbALw-1782472012.7592747-1.0.1.1-HtTaOhNGepeUTZstD.tovQX2pG1gt2aCwGkVvctpRs0; HttpOnly; SameSite=None; Secure; Path=/; Domain=api.anthropic.com',
+        'strict-transport-security': 'max-age=31536000; includeSubDomains; preload',
+        traceresponse: '00-6eaed4167e388b4e9858cfe54d333ba2-b81dcfeb2051233d-01',
+        'transfer-encoding': 'chunked',
+        vary: 'Accept-Encoding',
+        'x-robots-tag': 'none',
+        'x-should-retry': 'true'
+      },
+      responseBody: `{"type":"error","error":{"type":"rate_limit_error","message":"This request would exceed your organization's rate limit of 10,000 input tokens per minute (org: aae7ee1c-907a-44ad-ad1e-e4f2dcf1d781, model: claude-haiku-4-5-20251001). For details, refer to: https://docs.claude.com/en/api/rate-limits. You can see the response headers for current usage. Reduce the prompt length or the maximum tokens requested, or try again later. View your current limits at https://console.anthropic.com/settings/limits. You may also contact sales at https://claude.com/contact-sales to discuss your options for a rate limit increase."},"request_id":"req_011CcRmGq1MgDPbb79ozpem8"}`,
+      isRetryable: true,
+      data: { type: 'error', error: [Object] }
+    }
+  }
+}
+ POST /api/chat 500 in 15631ms
+[?25h

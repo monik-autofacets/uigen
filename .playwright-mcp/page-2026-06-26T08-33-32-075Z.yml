@@ -1,0 +1,65 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e54]:
+          - generic [ref=e55]:
+            - generic [ref=e58]: Create modern pricing card component with a er background rounded corners, call to action button
+            - img [ref=e61]
+          - generic [ref=e64]:
+            - img [ref=e67]
+            - generic [ref=e72]:
+              - paragraph [ref=e74]: This is a static response. You can place an Anthropic API key in the .env file to use the Anthropic API for component generation. Let me create an App.jsx file to display the component.
+              - generic [ref=e77]: Creating App.jsx
+              - separator [ref=e78]
+              - paragraph [ref=e80]: I'll create a Card component for you.
+              - generic [ref=e83]: Creating Card.jsx
+              - separator [ref=e84]
+              - paragraph [ref=e86]: Now let me enhance the component with better styling.
+              - generic [ref=e89]: Editing Card.jsx
+              - separator [ref=e90]
+              - generic [ref=e91]:
+                - paragraph [ref=e92]: "Perfect! I've created:"
+                - list [ref=e93]:
+                  - listitem [ref=e94]:
+                    - strong [ref=e95]: Card.jsx
+                    - text: "- A fully-featured card component"
+                  - listitem [ref=e96]:
+                    - strong [ref=e97]: App.jsx
+                    - text: "- The main app file that displays the component"
+                - paragraph [ref=e98]: The component is now ready to use. You can see the preview on the right side of the screen.
+          - generic [ref=e99]:
+            - generic [ref=e102]: Create a pricing card component
+            - img [ref=e105]
+          - generic [ref=e108]:
+            - img [ref=e111]
+            - generic [ref=e117]:
+              - paragraph [ref=e118]: "Perfect! I've created:"
+              - list [ref=e119]:
+                - listitem [ref=e120]:
+                  - strong [ref=e121]: Card.jsx
+                  - text: "- A fully-featured card component"
+                - listitem [ref=e122]:
+                  - strong [ref=e123]: App.jsx
+                  - text: "- The main app file that displays the component"
+              - paragraph [ref=e124]: The component is now ready to use. You can see the preview on the right side of the screen.
+        - generic [ref=e20]:
+          - textbox "Describe the React component you want to create..." [ref=e21]
+          - button [disabled] [ref=e22]:
+            - img [ref=e23]
+    - separator [ref=e26]
+    - generic [ref=e28]:
+      - generic [ref=e29]:
+        - tablist [ref=e31]:
+          - tab "Preview" [selected] [ref=e32]
+          - tab "Code" [ref=e33]
+        - generic [ref=e34]:
+          - button "Sign In" [ref=e35]
+          - button "Sign Up" [ref=e36]
+      - iframe [ref=e125]:
+        - generic [ref=f2e6]:
+          - heading "Amazing Product" [level=3] [ref=f2e7]
+          - paragraph [ref=f2e8]: This is a fantastic product that will change your life. Experience the difference today!
+          - button "Learn More" [ref=f2e10] [cursor=pointer]
+  - alert [ref=e48]
